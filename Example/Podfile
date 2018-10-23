@@ -1,11 +1,5 @@
 use_frameworks!
 
 target 'TT_BasicAnimationTool_Example' do
-  pod 'TT_BasicAnimationTool', :path => '../'
-
-  target 'TT_BasicAnimationTool_Tests' do
-    inherit! :search_paths
-
-    
-  end
+  pod 'TT_BasicAnimationTool'
 end

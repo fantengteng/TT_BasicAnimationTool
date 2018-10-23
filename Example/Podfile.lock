@@ -2,15 +2,15 @@ PODS:
   - TT_BasicAnimationTool (0.1.0)
 
 DEPENDENCIES:
-  - TT_BasicAnimationTool (from `../`)
+  - TT_BasicAnimationTool
 
-EXTERNAL SOURCES:
-  TT_BasicAnimationTool:
-    :path: "../"
+SPEC REPOS:
+  https://github.com/fantengteng/TT_Repo.git:
+    - TT_BasicAnimationTool
 
 SPEC CHECKSUMS:
-  TT_BasicAnimationTool: 67bb1fe74ccf2fc43d8f7187916ea87cf046e5cb
+  TT_BasicAnimationTool: c924f1c46335f95e1b9ad50e1405c3a03f3f4416
 
-PODFILE CHECKSUM: 76836b6404f36f5360b28283eb01f7976d38d4c8
+PODFILE CHECKSUM: 8f58aafe5fabc6c701fb8954b00ba981d01e922e
 
 COCOAPODS: 1.5.3

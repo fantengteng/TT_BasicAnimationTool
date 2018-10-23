@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "TT_BasicAnimationConfig.h"
+#import "TT_BasicAnimationTool.h"
 
 FOUNDATION_EXPORT double TT_BasicAnimationToolVersionNumber;
 FOUNDATION_EXPORT const unsigned char TT_BasicAnimationToolVersionString[];

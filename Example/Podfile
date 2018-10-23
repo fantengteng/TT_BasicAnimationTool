@@ -1,5 +1,6 @@
 use_frameworks!
-
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/fantengteng/TT_Repo'
 target 'TT_BasicAnimationTool_Example' do
   pod 'TT_BasicAnimationTool'
 end

@@ -1,0 +1,16 @@
+PODS:
+  - TT_BasicAnimationTool (0.1.0)
+
+DEPENDENCIES:
+  - TT_BasicAnimationTool (from `../`)
+
+EXTERNAL SOURCES:
+  TT_BasicAnimationTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TT_BasicAnimationTool: 67bb1fe74ccf2fc43d8f7187916ea87cf046e5cb
+
+PODFILE CHECKSUM: 76836b6404f36f5360b28283eb01f7976d38d4c8
+
+COCOAPODS: 1.5.3

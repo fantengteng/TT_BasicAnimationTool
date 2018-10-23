@@ -1,0 +1,6 @@
+framework module TT_BasicAnimationTool {
+  umbrella header "TT_BasicAnimationTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

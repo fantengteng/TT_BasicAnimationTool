@@ -1,0 +1,22 @@
+{
+  "name": "TT_BasicAnimationTool",
+  "version": "0.1.0",
+  "summary": "A short description of TT_BasicAnimationTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fantengteng/TT_BasicAnimationTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fantengteng": "593886467@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fantengteng/TT_BasicAnimationTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TT_BasicAnimationTool/Classes/**/*"
+}
